@@ -19,14 +19,14 @@ All operations are exposed through one class, `geometry::GeometryFacade`, in
 
 ## Download
 
-Grab the folder for your platform from [`release/`](release/) or a tagged
-[release](../../releases):
+Grab the folder for your platform and architecture from [`release/`](release/)
+or a tagged [release](../../releases):
 
-| Platform | Files |
-|----------|-------|
-| Windows  | `geometry.dll`, `geometry.lib`, `include/geometry_facade.h` |
-| Linux    | `libgeometry.so`, `include/geometry_facade.h` |
-| macOS    | `libgeometry.dylib`, `include/geometry_facade.h` |
+| Platform | Folder | Files |
+|----------|--------|-------|
+| Windows x64  | `release/win/x64/`     | `geometry.dll`, `geometry.lib`, `include/geometry_facade.h` |
+| Linux x64    | `release/linux/x64/`   | `libgeometry.so`, `include/geometry_facade.h` |
+| macOS arm64  | `release/macos/arm64/` | `libgeometry.dylib`, `include/geometry_facade.h` |
 
 ## Usage
 
