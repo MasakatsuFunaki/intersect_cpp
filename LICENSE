@@ -1,0 +1,35 @@
+Copyright (c) 2026. All Rights Reserved.
+
+This package contains prebuilt binary libraries (the "Software") and an
+accompanying C++ header describing the Software's public interface. By
+downloading, installing, or using the Software you agree to the following
+terms.
+
+1. Grant. You are granted a non-exclusive, non-transferable, royalty-free
+   right to use the prebuilt binaries as provided ("as is") by linking them
+   into your own applications.
+
+2. Restrictions. You may not: (a) reverse engineer, decompile, disassemble,
+   or otherwise attempt to derive the source code or internal design of the
+   Software; (b) modify, adapt, translate, or create derivative works of the
+   Software; (c) copy, publish, redistribute, sublicense, rent, lease, sell,
+   or otherwise transfer the Software or any part thereof to any third party,
+   whether standalone or as part of another product.
+
+3. Ownership. The Owner retains all right, title, and interest in and to the
+   Software, including all copyrights, patents, trade secrets, trademarks, and
+   other intellectual property rights. No rights are granted except as
+   expressly stated in Section 1.
+
+4. No Warranty. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+   KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+5. Limitation of Liability. IN NO EVENT SHALL THE OWNER BE LIABLE FOR ANY
+   CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT,
+   OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR
+   THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+6. Termination. Any breach of these terms automatically terminates the rights
+   granted in Section 1. Upon termination you must cease all use of and
+   destroy all copies of the Software.

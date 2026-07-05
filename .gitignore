@@ -1,0 +1,20 @@
+# Local-only files (not for publication)
+CLAUDE.md
+scrub.config
+
+# Build/release tooling is kept local, NOT published in this public repo.
+*.py
+
+# Release archives produced by the local tooling (uploaded as GitHub assets,
+# not committed into the repo tree)
+dist/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# NOTE: release/<os>/ binaries ARE committed on purpose -- do not ignore them.
